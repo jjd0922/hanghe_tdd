@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="813cddc8-531f-4723-b0af-c9c99978dcb7" name="변경" comment="setting">
+      <change afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ktlint-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/ApiControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/TddApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/PointHistoryTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/UserPointTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/PointController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/PointHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/TransactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/UserPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/service/PointService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/hhplus/tdd/PointServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hhplus-tdd-jvm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Record" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2do7wYRUvUCj6edZEX3807ez5Vy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build hhplus-tdd-jvm.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.TddApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jongdae/IdeaProjects/hanghe_tdd&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.5344828&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;64bbe3c565bc576fc0d8a16721800970&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jongdae\IdeaProjects\hanghe_tdd\.github" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.hhplus.tdd.point" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PointServiceTest.pointHistoryTable_ThrowException_whenUserPointNotEnough">
+    <configuration name="PointServiceTest.insertPoints_shouldThrowException_whenPointIsNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io.hhplus.tdd.hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.PointServiceTest" />
+      <option name="METHOD_NAME" value="insertPoints_shouldThrowException_whenPointIsNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.pointHistoryTable_ThrowException_whenUserPointMaxBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io.hhplus.tdd.hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.PointServiceTest" />
+      <option name="METHOD_NAME" value="pointHistoryTable_ThrowException_whenUserPointMaxBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.pointHistoryTable_ThrowException_whenUserPointNotEnough" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io.hhplus.tdd.hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.PointServiceTest" />
+      <option name="METHOD_NAME" value="pointHistoryTable_ThrowException_whenUserPointNotEnough" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.userPoimtTable_insertOrUpdate_whenDataNotExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io.hhplus.tdd.hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.PointServiceTest" />
+      <option name="METHOD_NAME" value="userPoimtTable_insertOrUpdate_whenDataNotExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.userPoimtTable_insertOrUpdate_whenPointHistoryIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="io.hhplus.tdd.hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.PointServiceTest" />
+      <option name="METHOD_NAME" value="userPoimtTable_insertOrUpdate_whenPointHistoryIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TddApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="io.hhplus.tdd.hhplus-tdd-jvm.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.hhplus.tdd.TddApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TddApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.hhplus.tdd.TddApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PointServiceTest.pointHistoryTable_ThrowException_whenUserPointNotEnough" />
+        <item itemvalue="JUnit.PointServiceTest.pointHistoryTable_ThrowException_whenUserPointMaxBalance" />
+        <item itemvalue="JUnit.PointServiceTest.insertPoints_shouldThrowException_whenPointIsNegative" />
+        <item itemvalue="JUnit.PointServiceTest.userPoimtTable_insertOrUpdate_whenPointHistoryIsEmpty" />
+        <item itemvalue="JUnit.PointServiceTest.userPoimtTable_insertOrUpdate_whenDataNotExists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff8865d3-b85f-4079-9cf0-0bcfcb9034af" name="Changes" comment="" />
+      <created>1710662815938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710662815938</updated>
+      <workItem from="1710662817309" duration="2568000" />
+      <workItem from="1734345224386" duration="1359000" />
+      <workItem from="1734346700680" duration="2375000" />
+      <workItem from="1734350035633" duration="13277000" />
+      <workItem from="1734431749241" duration="3370000" />
+      <workItem from="1734436246329" duration="3380000" />
+      <workItem from="1734439669026" duration="45000" />
+      <workItem from="1734439728675" duration="6011000" />
+      <workItem from="1734518029353" duration="25944000" />
+    </task>
+    <task id="LOCAL-00001" summary="포인트 충전/사용/조회 service 및 테스트코드">
+      <created>1734644573232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734644573232</updated>
+    </task>
+    <task id="LOCAL-00002" summary="setting">
+      <created>1734644969762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734644969762</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="포인트 충전/사용/조회 service 및 테스트코드" />
+    <MESSAGE value="setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
