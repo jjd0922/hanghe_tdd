@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="813cddc8-531f-4723-b0af-c9c99978dcb7" name="변경" comment="pointService">
-      <change afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
+    <list default="true" id="813cddc8-531f-4723-b0af-c9c99978dcb7" name="변경" comment="회고">
+      <change beforePath="$PROJECT_DIR$/.github/pull_request_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
     "aspect.path.notification.shown": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/jongdae/IdeaProjects/hanghe_tdd2",
+    "last_opened_file_path": "C:/Users/전시몰/IdeaProjects/hanghe_tdd",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -226,7 +227,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff8865d3-b85f-4079-9cf0-0bcfcb9034af" name="Changes" comment="" />
+      <changelist id="813cddc8-531f-4723-b0af-c9c99978dcb7" name="변경" comment="pointService" />
       <created>1710662815938</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -240,6 +241,8 @@
       <workItem from="1734439669026" duration="45000" />
       <workItem from="1734439728675" duration="6011000" />
       <workItem from="1734518029353" duration="25944000" />
+      <workItem from="1734653039245" duration="1570000" />
+      <workItem from="1734654890310" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="포인트 충전/사용/조회 service 및 테스트코드">
       <created>1734644573232</created>
@@ -283,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734647186693</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="회고">
+      <created>1734654341174</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734654341174</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +304,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -304,7 +326,8 @@
     <MESSAGE value="포인트 충전/사용/조회 service 및 테스트코드" />
     <MESSAGE value="setting" />
     <MESSAGE value="pointService" />
-    <option name="LAST_COMMIT_MESSAGE" value="pointService" />
+    <MESSAGE value="회고" />
+    <option name="LAST_COMMIT_MESSAGE" value="회고" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
